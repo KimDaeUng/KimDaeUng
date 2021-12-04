@@ -12,7 +12,8 @@
 - MMFT-BERT: Multimodal Fusion Transformer with BERT Encodings for Visual Question Answering ([paper](https://arxiv.org/abs/2010.14095))
 
 ### Detection
-- bottom-up-attention([code](https://github.com/peteanderson80/bottom-up-attention), [paper](https://arxiv.org/abs/1707.07998))
+- bottom-up-attention(caffe)([code1(caffe)](https://github.com/peteanderson80/bottom-up-attention), [code2(pytorch)](https://github.com/MILVLG/bottom-up-attention.pytorch), [paper](https://arxiv.org/abs/1707.07998))
+- detectorn ([code](https://github.com/facebookresearch/Detectron))
 - mmdetection ([code](https://github.com/open-mmlab/mmdetection))
 
 ## Vision-Language
