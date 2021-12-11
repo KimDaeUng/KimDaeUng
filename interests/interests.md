@@ -23,6 +23,7 @@
 - CLIP ([paper](https://cdn.openai.com/papers/Learning_Transferable_Visual_Models_From_Natural_Language.pdf))
 - CLIP-Guided-Diffusion ([code](https://github.com/afiaka87/clip-guided-diffusion))
 - DALLE-pytorch ([code](https://github.com/Jack000/DALLE-pytorch))
+- sberbank-ai/ru-dalle([code](https://github.com/sberbank-ai/ru-dalle))
 - Vision-Language Transformer and Query Generation for Referring
 Segmentation([paper](https://arxiv.org/pdf/2108.05565))
 - SimVLM: Simple Visual Language Model Pre-training with Weak Supervision ([blog](https://ai.googleblog.com/2021/10/simvlm-simple-visual-language-model-pre.html))
