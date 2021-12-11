@@ -2,7 +2,7 @@
 
 ## Final Projcect
 
-### VQA
+### Visual Question Answering
 - Shivanshu-Gupta/Visual-Question-Answering ([code](https://github.com/Shivanshu-Gupta/Visual-Question-Answering))
 - KVQA Benchmark ([code](https://github.com/SKTBrain/KVQA))
 - BAN-KVQA ([code](https://github.com/SKTBrain/BAN-KVQA))
@@ -10,6 +10,9 @@
 - Unified Vision-Language Pre-Training for Image Captioning and VQA
 - Visual Question Generation as Dual Task of Visual Question Answering ([paper](https://openaccess.thecvf.com/content_cvpr_2018/CameraReady/0811.pdf))
 - MMFT-BERT: Multimodal Fusion Transformer with BERT Encodings for Visual Question Answering ([paper](https://arxiv.org/abs/2010.14095))
+
+### Video Question Answering
+- Hierarchical Conditional Relation Networks for Video Question Answering([paper](https://arxiv.org/pdf/2002.10698.pdf))
 
 ### Detection
 - bottom-up-attention(caffe)([code1(caffe)](https://github.com/peteanderson80/bottom-up-attention), [code2(pytorch)](https://github.com/MILVLG/bottom-up-attention.pytorch), [paper](https://arxiv.org/abs/1707.07998))
