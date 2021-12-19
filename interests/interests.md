@@ -43,3 +43,8 @@ Segmentation([paper](https://arxiv.org/pdf/2108.05565))
 ## Dumps
 - https://github.com/JeanKossaifi/tensorly-notebooks
 - https://github.com/biubug6/Pytorch_Retinaface
+
+---
+# Tools
+- [poetry](https://github.com/python-poetry/poetry/issues/76)
+- [poethpoet](https://github.com/nat-n/poethepoet)
