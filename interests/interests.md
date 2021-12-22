@@ -46,7 +46,7 @@ Segmentation([paper](https://arxiv.org/pdf/2108.05565))
 ---
 ## NLP
 ### Korean
-- para-Kor ([code]((https://github.com/L0Z1K/para-Kor))
+- para-Kor ([code](https://github.com/L0Z1K/para-Kor))
 - 파파고를 품은 관용구 번역기:Tree ([code](https://github.com/itisused/2021_NLP_Project))
 - 다중 언어분석기 기반 대용량 품사, 구문 말뭉치 반자동 구축 ([code](https://github.com/bufsnlp2030/BUFS-JBNUCorpus2020))
 - kor-spacing : 한국어 띄어쓰기 논문 모델 구현 및 비교평가([code](https://github.com/JoungheeKim/kor-spacing))
@@ -107,7 +107,6 @@ Segmentation([paper](https://arxiv.org/pdf/2108.05565))
 
 ### CS
 - IT-Note: CS Knowledge for Job Interview([code](https://github.com/InSeong-So/IT-Note))
-- 
 
 ---
 ## Dumps
