@@ -1,6 +1,8 @@
 # Interests
 
-## Final Projcect
+## QA
+### MRC
+- GraphRetriever ([code](https://github.com/shmsw25/GraphRetriever))
 
 ### Visual Question Answering
 - Shivanshu-Gupta/Visual-Question-Answering ([code](https://github.com/Shivanshu-Gupta/Visual-Question-Answering))
@@ -14,10 +16,8 @@
 ### Video Question Answering
 - Hierarchical Conditional Relation Networks for Video Question Answering([paper](https://arxiv.org/pdf/2002.10698.pdf))
 
-### Detection
-- bottom-up-attention(caffe)([code1(caffe)](https://github.com/peteanderson80/bottom-up-attention), [code2(pytorch)](https://github.com/MILVLG/bottom-up-attention.pytorch), [paper](https://arxiv.org/abs/1707.07998))
-- detectorn ([code](https://github.com/facebookresearch/Detectron))
-- mmdetection ([code](https://github.com/open-mmlab/mmdetection))
+
+---
 
 ## Vision-Language
 - CLIP ([paper](https://cdn.openai.com/papers/Learning_Transferable_Visual_Models_From_Natural_Language.pdf))
@@ -31,21 +31,46 @@ Segmentation([paper](https://arxiv.org/pdf/2108.05565))
 - Learning to Prompt for Vision-Language Models([paper](https://arxiv.org/abs/2109.01134), [code](https://github.com/KaiyangZhou/CoOp))
 - NÜWA - Pytorch (wip) ([code](https://github.com/lucidrains/nuwa-pytorch))
 - glide-text2im([code](https://github.com/openai/glide-text2im))
-
+- Vector Quantized Diffusion Model for Text-to-Image Synthesis ([code](https://github.com/microsoft/VQ-Diffusion))
+---
 ## NLP
 ### Korean
 - para-Kor ([code]((https://github.com/L0Z1K/para-Kor))
 - 파파고를 품은 관용구 번역기:Tree ([code](https://github.com/itisused/2021_NLP_Project))
+- 다중 언어분석기 기반 대용량 품사, 구문 말뭉치 반자동 구축 ([code](https://github.com/bufsnlp2030/BUFS-JBNUCorpus2020))
+- kor-spacing : 한국어 띄어쓰기 논문 모델 구현 및 비교평가([code](https://github.com/JoungheeKim/kor-spacing))
 
-## Utilities
-- Koila ([code](https://github.com/rentruewang/koila))
+### Large-scale
+- OSLO:Open Source framework for Large-scale transformer Optimization([code](https://github.com/tunib-ai/oslo))
+
+### Applications
+- KeyBERT: Keyword Extraction ([code](https://github.com/MaartenGr/KeyBERT))
+- bert-extractive-summarizer ([code](https://github.com/dmmiller612/bert-extractive-summarizer))
+---
+## CV
+### Object Detection
+- bottom-up-attention(caffe)([code1(caffe)](https://github.com/peteanderson80/bottom-up-attention), [code2(pytorch)](https://github.com/MILVLG/bottom-up-attention.pytorch), [paper](https://arxiv.org/abs/1707.07998))
+- detectorn ([code](https://github.com/facebookresearch/Detectron))
+- mmdetection ([code](https://github.com/open-mmlab/mmdetection))
+
+---
+## Tools
+### Dependency Management
+- [poetry](https://github.com/python-poetry/poetry/issues/76)
+- [poethpoet](https://github.com/nat-n/poethepoet)
+
+### ML/DL
+- PyTea: PyTorch Tensor shape error analyzer([code](https://github.com/ropas/pytea))
+- Koila: solves CUDA error: out of memory error([code](https://github.com/rentruewang/koila))
 - img2dataset ([code](https://github.com/rom1504/img2dataset))
 
+---
 ## Dumps
 - https://github.com/JeanKossaifi/tensorly-notebooks
 - https://github.com/biubug6/Pytorch_Retinaface
 
 ---
-# Tools
-- [poetry](https://github.com/python-poetry/poetry/issues/76)
-- [poethpoet](https://github.com/nat-n/poethepoet)
+## Study
+### PyTorch Implementation
+- https://github.com/EthicalML/awesome-production-machine-learning
+- https://github.com/Seonghoon-Yu/Paper_Review_and_Implementation_in_PyTorch
