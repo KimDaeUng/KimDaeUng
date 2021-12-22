@@ -39,6 +39,7 @@ Segmentation([paper](https://arxiv.org/pdf/2108.05565))
 - 파파고를 품은 관용구 번역기:Tree ([code](https://github.com/itisused/2021_NLP_Project))
 - 다중 언어분석기 기반 대용량 품사, 구문 말뭉치 반자동 구축 ([code](https://github.com/bufsnlp2030/BUFS-JBNUCorpus2020))
 - kor-spacing : 한국어 띄어쓰기 논문 모델 구현 및 비교평가([code](https://github.com/JoungheeKim/kor-spacing))
+- KoBertSum: BertSum모델의 한국어 버전. 요약 ([code](https://github.com/uoneway/KoBertSum))
 
 ### Large-scale
 - OSLO:Open Source framework for Large-scale transformer Optimization([code](https://github.com/tunib-ai/oslo))
@@ -52,6 +53,7 @@ Segmentation([paper](https://arxiv.org/pdf/2108.05565))
 - bottom-up-attention(caffe)([code1(caffe)](https://github.com/peteanderson80/bottom-up-attention), [code2(pytorch)](https://github.com/MILVLG/bottom-up-attention.pytorch), [paper](https://arxiv.org/abs/1707.07998))
 - detectorn ([code](https://github.com/facebookresearch/Detectron))
 - mmdetection ([code](https://github.com/open-mmlab/mmdetection))
+- Active Learning for Deep Object Detection via Probabilistic Modeling([code](https://github.com/NVlabs/AL-MDN))
 
 ---
 ## Tools
@@ -64,13 +66,16 @@ Segmentation([paper](https://arxiv.org/pdf/2108.05565))
 - Koila: solves CUDA error: out of memory error([code](https://github.com/rentruewang/koila))
 - img2dataset ([code](https://github.com/rom1504/img2dataset))
 
----
-## Dumps
-- https://github.com/JeanKossaifi/tensorly-notebooks
-- https://github.com/biubug6/Pytorch_Retinaface
+### Web
+- fuite: CLI tool for finding memory leaks in web apps ([code](https://github.com/nolanlawson/fuite))
 
 ---
 ## Study
 ### PyTorch Implementation
 - https://github.com/EthicalML/awesome-production-machine-learning
 - https://github.com/Seonghoon-Yu/Paper_Review_and_Implementation_in_PyTorch
+
+---
+## Dumps
+- https://github.com/JeanKossaifi/tensorly-notebooks
+- https://github.com/biubug6/Pytorch_Retinaface
