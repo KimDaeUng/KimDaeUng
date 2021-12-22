@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&color=000000&height=50&section=header&text=eliza.dukim%&fontSize=50&fontColor=ffffff&fontAlign=50)
+![header](https://capsule-render.vercel.app/api?type=rect&color=ffffff&height=50&section=header&text=eliza.dukim%&fontSize=50&fontAlign=50)
 
 ### Walk the Talk
 
