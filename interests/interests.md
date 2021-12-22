@@ -30,6 +30,7 @@ Segmentation([paper](https://arxiv.org/pdf/2108.05565))
 - CPT: Colorful Prompt Tuning for Pre-trained Vision-Language Models ([paper](https://arxiv.org/abs/2109.11797))
 - Learning to Prompt for Vision-Language Models([paper](https://arxiv.org/abs/2109.01134), [code](https://github.com/KaiyangZhou/CoOp))
 - NÜWA - Pytorch (wip) ([code](https://github.com/lucidrains/nuwa-pytorch))
+- glide-text2im([code](https://github.com/openai/glide-text2im))
 
 ## NLP
 ### Korean
