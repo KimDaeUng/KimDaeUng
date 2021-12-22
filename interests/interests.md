@@ -4,6 +4,14 @@
 ### MRC
 - GraphRetriever ([code](https://github.com/shmsw25/GraphRetriever))
 
+### Information Retrieval
+- Optimizing Dense Retrieval Model Training with Hard Negatives([code](https://github.com/jingtaozhan/DRhard), [paper](https://arxiv.org/abs/2110.05789))
+- Rank-BM25: A two line search engine ([code](https://github.com/dorianbrown/rank_bm25))
+
+
+### Dialogue System
+- Towards Emotional Support Dialog Systems ([code](https://github.com/thu-coai/Emotional-Support-Conversation), [paper](https://arxiv.org/abs/2106.01144))
+
 ### Visual Question Answering
 - Shivanshu-Gupta/Visual-Question-Answering ([code](https://github.com/Shivanshu-Gupta/Visual-Question-Answering))
 - KVQA Benchmark ([code](https://github.com/SKTBrain/KVQA))
@@ -32,6 +40,9 @@ Segmentation([paper](https://arxiv.org/pdf/2108.05565))
 - NÜWA - Pytorch (wip) ([code](https://github.com/lucidrains/nuwa-pytorch))
 - glide-text2im([code](https://github.com/openai/glide-text2im))
 - Vector Quantized Diffusion Model for Text-to-Image Synthesis ([code](https://github.com/microsoft/VQ-Diffusion))
+- Axial Positional Embedding(?) ([code](https://github.com/lucidrains/axial-positional-embedding))
+- StyleCLIP: Text-Driven Manipulation of StyleGAN Imagery([code](https://github.com/orpatashnik/StyleCLIP))
+
 ---
 ## NLP
 ### Korean
@@ -41,12 +52,20 @@ Segmentation([paper](https://arxiv.org/pdf/2108.05565))
 - kor-spacing : 한국어 띄어쓰기 논문 모델 구현 및 비교평가([code](https://github.com/JoungheeKim/kor-spacing))
 - KoBertSum: BertSum모델의 한국어 버전. 요약 ([code](https://github.com/uoneway/KoBertSum))
 
+### PLM Fine-tuning
+- Revisiting Few-sample BERT Fine-tuning
+([code](https://github.com/asappresearch/revisit-bert-finetuning))
+
 ### Large-scale
 - OSLO:Open Source framework for Large-scale transformer Optimization([code](https://github.com/tunib-ai/oslo))
 
 ### Applications
 - KeyBERT: Keyword Extraction ([code](https://github.com/MaartenGr/KeyBERT))
 - bert-extractive-summarizer ([code](https://github.com/dmmiller612/bert-extractive-summarizer))
+
+### Speech
+- kospeech ([code](https://github.com/sooftware/kospeech))
+- Speech-to-Text ([code](https://github.com/Robotic-Project/Speech-to-Text))
 ---
 ## CV
 ### Object Detection
@@ -61,13 +80,24 @@ Segmentation([paper](https://arxiv.org/pdf/2108.05565))
 - [poetry](https://github.com/python-poetry/poetry/issues/76)
 - [poethpoet](https://github.com/nat-n/poethepoet)
 
-### ML/DL
+### ML
+- dataprep: ([code](https://github.com/sfu-db/dataprep))
+- lightfm: recomendation algorithm ([code](https://github.com/lyst/lightfm))
+### DL
 - PyTea: PyTorch Tensor shape error analyzer([code](https://github.com/ropas/pytea))
 - Koila: solves CUDA error: out of memory error([code](https://github.com/rentruewang/koila))
 - img2dataset ([code](https://github.com/rom1504/img2dataset))
+- pytorch-grad-cam([code](https://github.com/jacobgil/pytorch-grad-cam))
+- LASSL: Easy Language Model Pretraining leveraging Huggingface's Transformers and Datasets ([code](https://github.com/lassl/lassl))
+
 
 ### Web
 - fuite: CLI tool for finding memory leaks in web apps ([code](https://github.com/nolanlawson/fuite))
+- lit-NER: Streamlit demo for HuggingFace NER models ([code](https://github.com/cceyda/lit-NER))
+
+### SQL
+- SQLFluff: The SQL Linter for Humans ([code](https://github.com/sqlfluff/sqlfluff))
+
 
 ---
 ## Study
@@ -75,7 +105,12 @@ Segmentation([paper](https://arxiv.org/pdf/2108.05565))
 - https://github.com/EthicalML/awesome-production-machine-learning
 - https://github.com/Seonghoon-Yu/Paper_Review_and_Implementation_in_PyTorch
 
+### CS
+- IT-Note: CS Knowledge for Job Interview([code](https://github.com/InSeong-So/IT-Note))
+- 
+
 ---
 ## Dumps
 - https://github.com/JeanKossaifi/tensorly-notebooks
 - https://github.com/biubug6/Pytorch_Retinaface
+- https://github.com/ixaxaar/awesome-engineering-management
