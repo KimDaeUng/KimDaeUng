@@ -42,7 +42,8 @@ Segmentation([paper](https://arxiv.org/pdf/2108.05565))
 - Vector Quantized Diffusion Model for Text-to-Image Synthesis ([code](https://github.com/microsoft/VQ-Diffusion))
 - Axial Positional Embedding(?) ([code](https://github.com/lucidrains/axial-positional-embedding))
 - StyleCLIP: Text-Driven Manipulation of StyleGAN Imagery([code](https://github.com/orpatashnik/StyleCLIP))
-
+- Frozen : [post](https://smilegate.ai/2021/07/14/multimodal-few-shot-learner/)
+- Vision and Language Representation Learning and Beyond([video](https://tv.naver.com/v/23650980))
 ---
 ## NLP
 ### Korean
@@ -113,3 +114,4 @@ Segmentation([paper](https://arxiv.org/pdf/2108.05565))
 - https://github.com/JeanKossaifi/tensorly-notebooks
 - https://github.com/biubug6/Pytorch_Retinaface
 - https://github.com/ixaxaar/awesome-engineering-management
+- Curriculum Learning : https://aclanthology.org/2021.dialdoc-1.12.pdf
